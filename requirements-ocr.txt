@@ -1,0 +1,5 @@
+# Leitura de imagens (OCR). Instale UM dos dois:
+# 1) mais simples, sem programa extra:
+rapidocr-onnxruntime
+# 2) alternativa: instale tambem o programa Tesseract OCR no computador
+# pytesseract
